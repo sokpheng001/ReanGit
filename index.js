@@ -1,10 +1,5 @@
 "use strict"
 //learn javascript
 
-let student = {
-    x:1,
-    y:2,
-}
-
-let arra = new Array(...student);
-console.log(arra);
+let array = new Array(1,2,3,4,5,6,7,8,9,10);
+console.log(array.length);
