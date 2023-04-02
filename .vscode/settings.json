@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": false,
+  "prettier.arrowParens": "always",
+  "editor.fontLigatures": false,
+  "editor.formatOnType": false,
+  "prettier.bracketSameLine": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
