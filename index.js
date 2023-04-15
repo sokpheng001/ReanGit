@@ -4,7 +4,7 @@
 // console.log(fetch("https://restcountries.com/v3.1/capital/tallinn").then(e=>e.json()).then(e=>console.log(e)));
 
 const data_ = async function(){
-    const json = await fetch("https://restcountries.com/v3.1/name/cambodia");
+    const json = await fetch("https://jsonplaceholder.typicode.com/users");
     const data = await json.json();
     console.log(data[0])
 }
